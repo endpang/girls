@@ -2,8 +2,8 @@
 var app = getApp()
 Page({
   data: {
-    githubLink: 'https://github.com/litt1e-p',
-    avatarLink: 'https://avatars2.githubusercontent.com/u/10734995?v=3&s=466'
+    githubLink: 'https://maps.cc/girls',
+    avatarLink: 'https://maps.cc/345.png'
   },
   onLoad: function () {
     // console.log('onLoad')

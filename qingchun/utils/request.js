@@ -1,7 +1,6 @@
 import Promise from 'es6-promise.min';
 module.exports = (options) => {
     return new Promise((resolve, reject) => {
-        console.log(options)
         options = Object.assign(options, {
             success(result) {
 
